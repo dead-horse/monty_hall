@@ -1,4 +1,4 @@
 monty_hall
 ==========
 
-Monty Hall problem
+Monty Hall problem simulation.
